@@ -1,0 +1,6 @@
+git branch = shows all the branches
+git branch name = creates new branch
+git init = creates new repository
+git checkout branchname = the branch you are switching to to work on
+git status = shows what has been done
+new changes yahhhjkdal
